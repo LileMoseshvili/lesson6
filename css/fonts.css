@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'regular';
+    src: url('../fonts/poppinsregular/Poppins-Regular.eot');
+    src: url('../fonts/poppinsregular/Poppins-Regular.eot') format('embedded-opentype'),
+        url('../fonts/poppinsregular/Poppins-Regular.woff2') format('woff2'),
+        url('../fonts/poppinsregular/Poppins-Regular.woff') format('woff'),
+        url('../fonts/poppinsregular/Poppins-Regular.ttf') format('truetype'),
+        url('../fonts/poppinsregular/Poppins-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'semibold';
+    src: url('../fonts/poppinssemibold/Poppins-SemiBold.eot');
+    src: url('../fonts/poppinssemibold/Poppins-SemiBold.eot') format('embedded-opentype'),
+        url('../fonts/poppinssemibold/Poppins-SemiBold.woff2') format('woff2'),
+        url('../fonts/poppinssemibold/Poppins-SemiBold.woff') format('woff'),
+        url('../fonts/poppinssemibold/Poppins-SemiBold.ttf') format('truetype'),
+        url('../fonts/poppinssemibold/Poppins-SemiBold.svg') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'medium';
+    src: url('../fonts/poppinsmedium/Poppins-Medium.eot');
+    src: url('../fonts/poppinsmedium/Poppins-Medium.eot') format('embedded-opentype'),
+        url('../fonts/poppinsmedium/Poppins-Medium.woff2') format('woff2'),
+        url('../fonts/poppinsmedium/Poppins-Medium.woff') format('woff'),
+        url('../fonts/poppinsmedium/Poppins-Medium.ttf') format('truetype'),
+        url('../fonts/poppinsmedium/Poppins-Medium.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair/PlayfairDisplay-Bold.eot');
+    src: url('../fonts/playfair/PlayfairDisplay-Bold.eot') format('embedded-opentype'),
+        url('../fonts/playfair/PlayfairDisplay-Bold.woff2') format('woff2'),
+        url('../fonts/playfair/PlayfairDisplay-Bold.woff') format('woff'),
+        url('../fonts/playfair/PlayfairDisplay-Bold.ttf') format('truetype'),
+        url('../fonts/playfair/PlayfairDisplay-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
